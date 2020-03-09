@@ -1,3 +1,3 @@
 # LottoCap
 
-Veja nossas vagas disponveis em: https://github.com/lottocap/lottocap/issues
+Veja nossas vagas disponveis em: https://github.com/lottocap/vagas/issues
